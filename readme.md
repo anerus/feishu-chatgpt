@@ -26,6 +26,18 @@
     🚀 Feishu OpenAI 🚀
 </p>
 
+## 商业支持
+
+如果开源版无法满足您公司的需求，推荐您尝试正在内测的商业交付版本
+
+- 内置开箱即用的Azure Openai: 无需部署到海外，即可获得数十倍的性能提升
+- 掌控全局的Admin Panel: AI资源管理、对话日志查询、风险词规避和对话权限管理
+- 专人技术支持: 配备专业部署交付人员与后期一对一维护服务
+- 同时提供在线Saas版/企业级私有部署
+
+查看更多内容: https://connect-ai.forkway.cn
+
+
 ## 🥁 号外号外!
 
 大家好呀！我是[feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI)的作者River。非常兴奋地欢迎大家加入我们的[Connect-AI开源马拉松](https://fork-way.feishu.cn/base/LzPObR5YQaHSAssauDAcZdS3nuo?table=tblvKqjRYNfmoLMo&view=vewsekmPW4)活动！
@@ -47,7 +59,13 @@ AIGC的热潮正在各行各业掀起巨大的变革，我们看到各大社群�
   - B奖励：项目优秀度奖励，根据项目复杂度、组内配合度、产品创意度，以及期中和期末用户体验打分，评选出优秀项目的队长和核心队员，并给予相应奖励。
   - C奖励：成员活跃度奖励，考虑到设计和测试身份的特殊性，无法单独带领项目。因此，我们将评选出优秀设计师和优秀测试反馈员，以表彰他们在项目中的积极参与和贡献。
   
-  
+做出下面奖励安排
+  - A奖励项目完成度：京东E卡300 * 10
+  - B奖励项目优秀度：
+    - 杰出奖: iPhone14 * 1 + 京东E卡300 * 3
+    - 优秀奖: PS5 * 1 + 京东E卡300 * 3
+  - C奖励成员活跃度：京东E卡300 * 4
+
 我们队员有
 - [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)和[ChatPaper的维护者](https://github.com/kaixindelele/ChatPaper)-->[cc](https://github.com/circlestarzero)
 - [钉钉GPT的维护者](https://github.com/eryajf/chatgpt-dingtalk)-->[eryajf](https://github.com/eryajf)
@@ -58,7 +76,9 @@ AIGC的热潮正在各行各业掀起巨大的变革，我们看到各大社群�
 
 如果您对Connect-AI开源马拉松感兴趣，请随时加入项目推进群，一起为AI技术的未来贡献力量！
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/50035229/232206726-f536cb19-47b2-4aa3-a7eb-a96a04fd9fa9.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/50035229/233607863-b58f7097-2454-4feb-8cae-822ee41267f9.png">
+
+
 
 
 
@@ -461,17 +481,12 @@ docker compose down
 这里有些[免费的OpenAI Key](https://freeopenai.xyz/), 大家可测试使用。
 
 
-## 更多交流
 
-
-如需协助部署，或者其他定制服务，可联系下面的WeChat，支持发票~
+## 一起交流
 
 遇到问题，可以加入飞书群沟通~
 
-
-<img src='https://user-images.githubusercontent.com/50035229/229813025-516d09f7-7de3-46b5-8407-f0bbf8b44344.png' alt='' width='200'/>
-
-## 交朋友 或者 鼓励一下
+<img src='https://user-images.githubusercontent.com/13283837/232570671-1058555f-c9e5-4f64-889b-1d8efd0101ba.png' alt='' width='200'/>
 
 如果你觉得这个项目对你有帮助，可以请作者买本书~
 
